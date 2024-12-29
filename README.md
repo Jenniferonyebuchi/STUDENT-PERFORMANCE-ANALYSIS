@@ -1,5 +1,5 @@
 # STUDENT-PERFORMANCE-ANALYSIS
-![student performance analysis cover 1](https://github.com/user-attachments/assets/89b70e32-8219-4596-a884-f868dfdf975e)
+![student performance analysis cover 1](https://github.com/Jenniferonyebuchi/STUDENT-PERFORMANCE-ANALYSIS/blob/main/student%20performance%20analysis%20cover%201.JPG)
 
 ### Introduction
 ---
